@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "KP Knowledge Base",
+    pageTitle: "KP's Blog",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "kb.kingposs.com",
+    baseUrl: "blog.kingposs.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,

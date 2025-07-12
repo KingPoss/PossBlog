@@ -31,7 +31,7 @@ body {
     --image-border-width: 1px;
     --image-border-padding: 8px;
     --image-border-background: var(--td);
-
+    color: gray;
     background-color: black;
     background-image: var(--default-site-background);
   }
@@ -1238,4 +1238,23 @@ footer a img:hover{
   animation-duration: 1s;
       -webkit-animation-duration: 1s;
       -moz-animation-duration: 1s;
+}
+
+.explorer .explorer-content {
+  width: 100%;
+}
+
+article>h1>a[role=anchor],
+article>h2>a[role=anchor],
+article>h3>a[role=anchor],
+article>h4>a[role=anchor],
+article>h5>a[role=anchor],
+article>h6>a[role=anchor],
+article>thead>a[role=anchor] {
+  color: lightgray;
+  background-color:#0000
+}
+
+a.external .external-icon > path {
+  fill: lightgray;
 }

@@ -1,7 +1,8 @@
 ---
 title: Test from phone
 draft: false
-tags: 
+tags:
+  - journal
 date: 7/11/2025
 ---
 ---

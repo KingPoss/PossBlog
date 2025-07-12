@@ -1,7 +1,8 @@
 ---
 title: First Journal 7-11-25
 draft: false
-tags: 
+tags:
+  - journal
 date: 7/11/2025
 ---
 Hey! this is a test journal, just sorta getting a feel for the land

@@ -1,7 +1,7 @@
 ---
-title: killing it
+title: Quick huh?
 draft: false
 tags:
   - journal
 ---
-this is a test
+Xhahshfj 

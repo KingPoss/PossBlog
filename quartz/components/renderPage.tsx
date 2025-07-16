@@ -296,7 +296,7 @@ export function renderPage(
             <a href="https://kingposs.com/index">Home</a>
             <a href="https://kingposs.com/about">About Me</a>
             <a href="https://kingposs.com/art">Art/Media</a>
-            <a href="https://kingposs.com/blog">Blog</a>
+            <a href="https://blog.kingposs.com">Blog</a>
             <a href="https://kingposs.com/radio">Radio</a>
             <a href="https://kb.kingposs.com">Brain Bank</a>
             <a href="https://kingposs.com/sites">Cool Sites</a>

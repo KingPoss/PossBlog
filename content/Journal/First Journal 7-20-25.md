@@ -20,8 +20,8 @@ We got evacuated by a wildfire! Super freaky, but luckily our neighborhood was s
 ### Camping about
 Wifey and I went camping! The house has set up a little camping spot down a ways on our property from the house. we affectionately refer to it as camp mushroom. My wife and I spent 2 nights out there, and boy it was a nice reset, even if it was brief. We spent the night watching kitchen nightmares, smoking weed, and playing Soul Calibur VI.
 
-### Fun in Soul Calibur IV
- My family has been playing the soul calibur games since before I was even born -- My mom and dad would fight each other throughout the game series. Soul Calibur IV is when just about the whole family picked an interest. The custom character creator is limited, but boy can you make some insane characters in it. It almost makes it more satisfying because of the limited toolset you work with. We've filled out 93 out of the 100 slots on the family xbox, but recently my wife and I pirated the game in our room and we've been making our own monstrosities to fight with. Here's a few:
+### Fun in Soul Calibur VI
+ My family has been playing the soul calibur games since before I was even born -- My mom and dad would fight each other throughout the game series. Soul Calibur VI is when just about the whole family picked an interest. The custom character creator is limited, but boy can you make some insane characters in it. It almost makes it more satisfying because of the limited toolset you work with. We've filled out 93 out of the 100 slots on the family xbox, but recently my wife and I pirated the game in our room and we've been making our own monstrosities to fight with. Here's a few:
 #### Corkscrewer, the high potency love duck
 ![[Discord_cTGsgFJDr8.png]]
 

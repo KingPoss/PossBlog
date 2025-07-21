@@ -54,4 +54,4 @@ New hyperfixation: the electrical grid! As you can probably tell by the article 
 - Practicing guitar consistently.
 - Establish a daily/weekly/monthly schedule, my sis found an awesome one over [amazon](https://www.amazon.com/Habit-Tracker-Journal-Binding-Undated-Productivity/dp/B0BX5S4CQJ?crid=3178C8QZEABLS&dib=eyJ2IjoiMSJ9.Hb1tmqM5y32CQ6jphEUycrHczjz3iO1_v30yeJPtPgqOZHVJTFn1bAc2QxcPsv8h27d6QArh7n6zFqos5SJ41EWCkcADrz0zl3y--bLwwesLFbESu6L6ksQdLKqLweXmYh8YdHq8eGpFQEgEa9xxWi-OHPHbzVdAVUdLx1_t3noDyMKaMkG8-4qlo0z5PE7C6NjUyiOZqNoW-k1Xkw9_xcI_3xZjS88eSmF9irG3_8iC9npDpSIF_2UiuDtkr1XIWEWMQ5T_wgSclG-MGMdjRE5N9zF6rNhfNOe9xpeLos8.zNcUc6DR4DqQv9nB16jQQe_wQozyW1tTAeaXwnLqt4s&dib_tag=se&keywords=habit%2Btracker%2Bjournal%2Boriental%2Bbeauty%2Bpearl&qid=1753060146&sprefix=habit%2Btracker%2Bjournal%2Boriental%2Bbeauty%2Bpear%2Caps%2C161&sr=8-6&th=1) for only 6 bucks that looks like it'd work well with my brain 
 
-And that's it. Thanks for reading my first journal entry! More to come!
+And that's it. Thanks for reading my first journal entry! More to come!!

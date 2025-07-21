@@ -5,3 +5,6 @@ tags:
   - "#journal"
 ---
 lets see if this works
+
+
+also added on laptop

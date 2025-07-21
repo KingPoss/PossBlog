@@ -4,7 +4,7 @@ draft: false
 tags:
   - journal
 ---
-This is a test from my phone 
-
-
-Editing now on phone hshehsnsh
+srtsfdgsfdgsfdgf
+fdsgh
+dfshg
+sdfg

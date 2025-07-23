@@ -6,7 +6,7 @@ tags:
 ---
 ## I'm back!
 Well, my blog and my site are how I want em (for now), and I can make these blog posts from my phone! I dont mind digging into html/css/js, i quite love it honestly, but when it comes to updating stuff CONSISTENTLY, I needed some sort of static site generator or something.
-It's all sorted so now I can just write!!!
+It's all sorted so now I can just write!!
 ## Where's KP been?
 I was in a depressive slump for several months, constantly bouncing between sad, frustrated, and anxious. Well, I went through the whole diagnosis spiel, and now I'm feeling better than ever! They diagnosed me with Bipolar type 2, which has honestly explained so much.
 

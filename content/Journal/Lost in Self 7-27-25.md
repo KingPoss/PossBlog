@@ -44,7 +44,7 @@ About halfway through the day, I felt it starting to sink in I was going to be s
 
 Despite the uncomfortableness, I didn't drink, which is good. Not a single drop. We smoked weed of course, but that's become a background substance after a near decade of daily smoking. Before, any social outing I would go to, I would drink. At this point I dont think its healthy to try and dull myself to drag through social interactions, so rn I'm just learning to bareback this shit, and be more genuine.
 
-I couldn't get to sleep until about 2:30 or 3. Woke up at 4:30 or so, fell back asleep and an honest to god nightmare for the first time in what feels like years. Typically they're just stress dreams. I woke up feeling like I had just fought for my life.
+I couldn't get to sleep until about 2:30 or 3. Woke up at 4:30 or so, fell back asleep and had an honest to god nightmare for the first time in what feels like years. Typically they're just stress dreams. I woke up feeling like I had just fought for my life.
 ## In Retrospect
 Did I have fun? No, not really.  Do I think it did me good to try and bare through it anyway? Yeah. I did better than I usually do. I don't think I'll ever be *"normal"*, but I shouldn't let that stop me from trying. I'm happy I got through it without too much whining.
 

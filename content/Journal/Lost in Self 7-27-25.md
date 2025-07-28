@@ -48,7 +48,7 @@ I couldn't get to sleep until about 2:30 or 3. Woke up at 4:30 or so, fell back 
 ## In Retrospect
 Did I have fun? No, not really.  Do I think it did me good to try and bare through it anyway? Yeah. I did better than I usually do. I don't think I'll ever be *"normal"*, but I shouldn't let that stop me from trying. I'm happy I got through it without too much whining.
 
-It's funny, I've called them "my wife's friend" this entire time but I actually met and knew them before they even started talking. They actually let me stay in their hotel room at BLFC, when they found out I got a hotel room w/ that Epsilon asshole I mentioned earlier. They even gave me a plushie at the end of it. 
+It's funny, I've called them "my wife's friend" this entire time but I actually met and knew them before they even started talking. They actually let me stay in their hotel room at BLFC, when they found out I got a hotel room w/ this absolute tool named Epsilon. They even gave me a plushie at the end of it. 
 
 I want to say they're my friend too, but I really don't feel it. I know I should, I know they probably feel that way, but they are still outside of my ring 0 of trust. All of that group is, when they've been some of the sweetest people I've known. Hell, I met my wife because of the meetups they organize. I should feel some sense of connection to them, but often all I feel is resentment I don't understand them or how they work.
 

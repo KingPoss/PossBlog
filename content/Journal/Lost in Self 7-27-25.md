@@ -58,7 +58,7 @@ I'm trying. I hope I can do one of these outings again with my wife. I'm really 
 I'll try to write again next week. I might post earlier if I have something worth saying.
 Thanks to anyone reading this.
 
-### LATE NIGHT ADDENDUM
+## LATE NIGHT ADDENDUM
 I realize I've grown fond and quite close to a group of fellow webweavers from Neocities. I legitimately feel comfortable calling them my friends, and it's a really cozy revelation. They're my friends! 
 A couple of us played PEAK together, and had an absolute blast. We're gonna play more this week for sure. There's also this lovely girl my wife and I have gone hiking/offroading with named Lulu. I think I'd call her my friend too, I can let my guard down in their company.
 Maybe it's just about finding the people I'm comfortable with. It 's 9:51 PM and I wrote this post earlier in the day. Having fun with my pals, recognizing I have them, and cuddling with my wife is making me feel better :3

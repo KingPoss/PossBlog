@@ -24,6 +24,7 @@ Actually pleased with how this photo came out
 ![[IMG_1594.jpg]]Now here's the crazy thing: When I was standing under these double-circuit 500 kV lines, you could hear buzzing. It was a bit humid that day, and what I was hearing was [corona discharge!](https://en.wikipedia.org/wiki/Corona_discharge) It's literally ionizing the air around the lines, producing audible noise (the buzzing), radio interference, and even visible light!
 There's decent photos of it happening around the [corona rings](https://en.wikipedia.org/wiki/Corona_ring) on insulation strings and conductors, but only one photo I've found of the entire high voltage line glowing (i assume with a really really really long exposure time):
 ![[what-is-corona-effect.jpg]]
+
 This has be wondering...If I was able to do my own long exposure on a particularly humid night, would I be able to capture (in higher definition) the lines glowing?! I don't have the means to do it right now, but I desperately need to try and capture this photo one day. I will.
 
 ### San Diego Recloser/Sectionalizer W/ UHF uplink

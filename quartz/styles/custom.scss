@@ -1043,7 +1043,10 @@ strong {
   from  { background-position:   0   0; }
   to  { background-position: 1000px 0; }
 }
-
+@-webkit-keyframes slideRainbow {
+  from  { background-position:   0   0; }
+  to  { background-position: 1000px 0; }
+}
 /* force the gradient‐clip into the active link’s rainbow text */
 .topnav > a.active .rainbow {
   /* hide the fallback link color */

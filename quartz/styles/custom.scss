@@ -1024,11 +1024,27 @@ strong {
     #b12dff  800px,   /* magenta at 80% */
     #ff2df2  900px,   /* pink at 90% */
     #ff3f2d  1000px    /* back to red at 100% */
-  );
+  );  /* Force correct compositing */
+  -webkit-backface-visibility: hidden !important;
+  -webkit-perspective: 1000px !important;
+  transform: translate3d(0,0,0) !important;
+  
+  /* Ensure text rendering */
+  -webkit-text-fill-color: transparent !important;
+  text-fill-color: transparent !important;
+  
+  /* Reset any Quartz interference */
+  filter: none !important;
+  mix-blend-mode: normal !important;
+  isolation: isolate !important;
+
 }
 .rainbow {
   margin-bottom: 0.1px;
   border: none;
+    -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
 }
 #siteheader {
   min-width: 0;

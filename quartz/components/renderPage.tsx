@@ -267,11 +267,7 @@ export function renderPage(
 8888888P"  8888888888 888    Y888`}
           </pre>
         </div>
-<>
-<script>
-  
-</script>
-</>
+
         {/* Mobile navigation */}
         <div className="topnav" id="myTopnav">
           <a href="/index.html" className="active">

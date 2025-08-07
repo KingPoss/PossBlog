@@ -1025,6 +1025,9 @@ strong {
     #ff2df2  900px,   /* pink at 90% */
     #ff3f2d  1000px    /* back to red at 100% */
   );
+  will-change: background-position;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
 }
 .rainbow {
   margin-bottom: 0.1px;

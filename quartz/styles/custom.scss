@@ -1004,47 +1004,27 @@ strong {
   align-items: stretch;
   justify-content: center;
   margin-inline: auto;
-  position: relative;
-  color: transparent;
-  overflow: hidden;
-}
-
-.headerflex::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: repeating-linear-gradient(
-    90deg,
-    #ff3f2d   0px,
-    #ff602d  100px,
-    #ff8b2d  200px,
-    #ffc72d  300px,
-    #9dff2d  400px,
-    #2dffae  500px,
-    #2d98ff  600px,
-    #7e2dff  700px,
-    #b12dff  800px,
-    #ff2df2  900px,
-    #ff3f2d  1000px
-  );
+  /* 2) Tile that exactly once every 1000px, and mask to text */
   background-size: 1000px 100%;
-  animation: slideTransform 8s linear infinite;
-  z-index: -1;
-}
-
-.headerflex > * {
-  background: inherit;
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-}
-
-@keyframes slideTransform {
-  from { transform: translateX(0); }
-  to { transform: translateX(-1000px); }
+  /* 3) Slide it left by exactly one tile (1000px) over 8s */
+  animation: slideRainbow 8s linear infinite;
+  background-image: repeating-linear-gradient(
+    90deg,
+    #ff3f2d   0px,    /* red start */
+    #ff602d  100px,   /* orange at 10% */
+    #ff8b2d  200px,   /* yellow at 20% */
+    #ffc72d  300px,   /* green at 30% */
+    #9dff2d  400px,   /* cyan at 40% */
+    #2dffae  500px,   /* blue at 50% */
+    #2d98ff  600px,   /* indigo at 60% */
+    #7e2dff  700px,   /* violet at 70% */
+    #b12dff  800px,   /* magenta at 80% */
+    #ff2df2  900px,   /* pink at 90% */
+    #ff3f2d  1000px    /* back to red at 100% */
+  );
 }
 .rainbow {
   margin-bottom: 0.1px;

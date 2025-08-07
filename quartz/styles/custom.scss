@@ -1013,8 +1013,7 @@ strong {
   /* 3) Slide it left by exactly one tile (1000px) over 8s */
   animation: slideRainbow 8s linear infinite;
   -webkit-animation: slideRainbow 8s linear infinite;
-
-  background-image: repeating-linear-gradient(
+    background-image: -webkit-repeating-linear-gradient(
     90deg,
     #ff3f2d   0px,    /* red start */
     #ff602d  100px,   /* orange at 10% */
@@ -1028,7 +1027,7 @@ strong {
     #ff2df2  900px,   /* pink at 90% */
     #ff3f2d  1000px    /* back to red at 100% */
   );
-    background-image: -webkit-repeating-linear-gradient(
+  background-image: repeating-linear-gradient(
     90deg,
     #ff3f2d   0px,    /* red start */
     #ff602d  100px,   /* orange at 10% */
@@ -1056,14 +1055,15 @@ strong {
   padding-right: 1rem;  
 }
 /* Slide from 0 → -1000px, then repeat seamlessly */
-@keyframes slideRainbow {
-  from  { background-position:   0   0; }
-  to  { background-position: 1000px 0; }
-}
 @-webkit-keyframes slideRainbow {
   from  { background-position:   0   0; }
   to  { background-position: 1000px 0; }
 }
+@keyframes slideRainbow {
+  from  { background-position:   0   0; }
+  to  { background-position: 1000px 0; }
+}
+
 /* force the gradient‐clip into the active link’s rainbow text */
 .topnav > a.active .rainbow {
   /* hide the fallback link color */

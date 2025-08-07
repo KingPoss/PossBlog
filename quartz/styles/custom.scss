@@ -1028,6 +1028,20 @@ strong {
     #ff2df2  900px,   /* pink at 90% */
     #ff3f2d  1000px    /* back to red at 100% */
   );
+    background-image: -webkit-repeating-linear-gradient(
+    90deg,
+    #ff3f2d   0px,    /* red start */
+    #ff602d  100px,   /* orange at 10% */
+    #ff8b2d  200px,   /* yellow at 20% */
+    #ffc72d  300px,   /* green at 30% */
+    #9dff2d  400px,   /* cyan at 40% */
+    #2dffae  500px,   /* blue at 50% */
+    #2d98ff  600px,   /* indigo at 60% */
+    #7e2dff  700px,   /* violet at 70% */
+    #b12dff  800px,   /* magenta at 80% */
+    #ff2df2  900px,   /* pink at 90% */
+    #ff3f2d  1000px    /* back to red at 100% */
+  );
 }
 .rainbow {
   margin-bottom: 0.1px;

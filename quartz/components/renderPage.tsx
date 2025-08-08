@@ -235,8 +235,43 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
             <>
-        <script data-site="TIBHSGY" src="https://analytics.kingposs.com/script.js" defer />
-        <div className="headerflex">
+<script dangerouslySetInnerHTML={{
+  __html: `
+    // Bearlytics Analytics with manual SPA support
+    (function() {
+      function loadBearlytics() {
+        // Remove existing Bearlytics script if it exists
+        const existingScript = document.querySelector('script[data-site="RRZKQSF"]');
+        if (existingScript) {
+          existingScript.remove();
+        }
+        
+        // Create and add new script
+        const script = document.createElement('script');
+        script.src = 'https://analytics.kingposs.com/script.js';
+        script.dataset.site = 'TIBHSGY';
+        script.defer = true;
+        
+        // Add a cache buster to force reload
+        script.src = script.src + '?t=' + Date.now();
+        
+        document.head.appendChild(script);
+      }
+      
+      // Load on initial page load
+      loadBearlytics();
+      
+      // Reload on Quartz SPA navigation
+      document.addEventListener('nav', function() {
+        // Small delay to ensure the URL has changed
+        setTimeout(() => {
+          console.log('Navigation detected, reloading Bearlytics for:', window.location.pathname);
+          loadBearlytics();
+        }, 100);
+      });
+    })();
+  `
+}} />        <div className="headerflex">
           <span className="rainbowdesktop" id="siteheader">
             {`88888888888 888    888 8888888888
     888     888    888 888       

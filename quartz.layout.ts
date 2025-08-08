@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 import CustomPageWrapper from "./quartz/components/CustomPageWrapper"
 
 export const sharedPageComponents: SharedLayout = {
-  head: Component.BearlyticsInjector(),
+  head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({ links: {} }),

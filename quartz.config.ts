@@ -11,6 +11,9 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    analytics: {
+      provider: "null",
+    },
     locale: "en-US",
     baseUrl: "blog.kingposs.com",
     ignorePatterns: ["private", "templates", ".obsidian"],

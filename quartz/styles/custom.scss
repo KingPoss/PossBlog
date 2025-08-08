@@ -75,7 +75,7 @@ body {
     }
 
   }
-@media all and (max-width: 800px) {
+@media all and (max-width: 800px), (hover: none) and (pointer: coarse) {
   .navbar {
     display: none;
     visibility: hidden;
@@ -83,50 +83,28 @@ body {
     padding-bottom: 0;
     margin: 0;
   }
-  .navbar a{
+
+  .navbar a {
     display: none;
     visibility: hidden;
     height: 0;
     padding-bottom: 0;
     margin: 0;
   }
+
   .headerflex {
     display: none;
     visibility: hidden;
     height: 0;
   }
-  #myTopnav {
-    display: flex;
-    visibility: visible;
-    margin-bottom: 0;
 
-  }
-}
-
-@media (hover: none) and (pointer: coarse) {
-  .navbar{ 
-    display: none;
-    visibility: hidden;
-    height: 0;
-  }
-  .navbar a{
-    display: none;
-    visibility: hidden;
-    height: 0;
-    padding-bottom: 0;
-    margin: 0;
-  }
-  .headerflex {
-    display: none;
-    visibility: hidden;
-    height: 0;
-  }
   #myTopnav {
     display: flex;
     visibility: visible;
     margin-bottom: 0;
   }
 }
+
   /*-Image Sizing-*/
   /*Fit image within bounds WITHOUT stretching*/
   img:is([alt*=cover], [alt*=cvr]),

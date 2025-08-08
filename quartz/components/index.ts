@@ -53,3 +53,4 @@ export {
   ConditionalRender,
   CustomHeader,
 }
+export { default as BearlyticsInjector } from "./BearlyticsInjector"

@@ -235,11 +235,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
             <>
-            <script 
-  data-site="RRZKQSF" 
-  src="https://analytics.kingposs.com/script.js" 
-  defer 
-/>
+        <script data-site="TIBHSGY" src="https://analytics.kingposs.com/script.js" defer />
         <div className="headerflex">
           <span className="rainbowdesktop" id="siteheader">
             {`88888888888 888    888 8888888888

@@ -237,11 +237,13 @@ export function renderPage(
             <>
 <script dangerouslySetInnerHTML={{
   __html: `
-    // Bearlytics Analytics with manual SPA support
+    // Bearlytics Analytics with manual SPA support (ignoring hash navigation)
     (function() {
+      let lastPathname = window.location.pathname;
+      
       function loadBearlytics() {
         // Remove existing Bearlytics script if it exists
-        const existingScript = document.querySelector('script[data-site="RRZKQSF"]');
+        const existingScript = document.querySelector('script[data-site="TIBHSGY"]');
         if (existingScript) {
           existingScript.remove();
         }
@@ -261,13 +263,16 @@ export function renderPage(
       // Load on initial page load
       loadBearlytics();
       
-      // Reload on Quartz SPA navigation
+      // Reload on Quartz SPA navigation (but not hash changes)
       document.addEventListener('nav', function() {
-        // Small delay to ensure the URL has changed
-        setTimeout(() => {
-          console.log('Navigation detected, reloading Bearlytics for:', window.location.pathname);
-          loadBearlytics();
-        }, 100);
+        // Only reload if the pathname actually changed (not just the hash)
+        if (window.location.pathname !== lastPathname) {
+          lastPathname = window.location.pathname;
+          setTimeout(() => {
+            console.log('Page navigation detected, reloading Bearlytics for:', window.location.pathname);
+            loadBearlytics();
+          }, 100);
+        }
       });
     })();
   `

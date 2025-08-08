@@ -59,51 +59,7 @@ body {
     --tall: 500px;
   }
   
-  /*----Mobile----*/
-  @media (max-width: 500px) {
-    .theme-dark, .theme-light {
-      /*Mobile Sizes*/
-      --radius: 0px;
-      --micro: 70px;
-      --tiny: 100px;
-      --small: 150px;
-      --small-med: 200px;
-      --med-small: 250px;
-      --medium: 300px;
-      --med-tall: 450px;
-      --tall: 500px;
-    }
 
-  }
-@media all and (max-width: 800px), (hover: none) and (pointer: coarse) {
-  .navbar {
-    display: none;
-    visibility: hidden;
-    height: 0;
-    padding-bottom: 0;
-    margin: 0;
-  }
-
-  .navbar a {
-    display: none;
-    visibility: hidden;
-    height: 0;
-    padding-bottom: 0;
-    margin: 0;
-  }
-
-  .headerflex {
-    display: none;
-    visibility: hidden;
-    height: 0;
-  }
-
-  #myTopnav {
-    display: flex;
-    visibility: visible;
-    margin-bottom: 0;
-  }
-}
 
   /*-Image Sizing-*/
   /*Fit image within bounds WITHOUT stretching*/
@@ -1263,4 +1219,51 @@ article>thead>a[role=anchor] {
 
 a.external .external-icon > path {
   fill: lightgray;
+}
+
+
+  /*----Mobile----*/
+  @media (max-width: 500px) {
+    .theme-dark, .theme-light {
+      /*Mobile Sizes*/
+      --radius: 0px;
+      --micro: 70px;
+      --tiny: 100px;
+      --small: 150px;
+      --small-med: 200px;
+      --med-small: 250px;
+      --medium: 300px;
+      --med-tall: 450px;
+      --tall: 500px;
+    }
+
+  }
+@media all and (max-width: 800px), (hover: none) and (pointer: coarse) {
+  .navbar {
+    display: none !important;
+    visibility: hidden;
+    height: 0;
+    padding-bottom: 0;
+    margin: 0;
+  }
+
+  .navbar a {
+    display: none;
+    visibility: hidden;
+    height: 0;
+    padding-bottom: 0;
+    margin: 0;
+  }
+
+  .headerflex {
+    display: none;
+    visibility: hidden;
+    height: 0;
+  }
+
+  #myTopnav {
+    display: flex;
+    visibility: visible;
+    margin-bottom: 0;
+  }
 }

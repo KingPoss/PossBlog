@@ -269,7 +269,6 @@ export function renderPage(
         if (window.location.pathname !== lastPathname) {
           lastPathname = window.location.pathname;
           setTimeout(() => {
-            console.log('Page navigation detected, reloading Bearlytics for:', window.location.pathname);
             loadBearlytics();
           }, 100);
         }

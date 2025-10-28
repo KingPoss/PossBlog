@@ -6,7 +6,9 @@ tags:
 ---
 ## Guess who's back?
 Three months have passed since my last journal entry. I find it's hard to write (or really create anything) when life starts to pick up. I really need to setting aside some time during the week to write, gather my thoughts, and work on my projects. A lot has happened in these last three months, but I'm finally starting to settle down again. As of this last week, I've fixed a couple of dead links n' such on my site, and even made a few ads to go on the front page, here they are:
+
 ![[KPad.gif]] ![[touchgrassad.png]]
+
 Going through some of the creative programs I've gathered over the years, I dusted off [JuiceFX](https://codemanu.itch.io/juicefx) and found it actually works great for site assets and such. Easy transforms/animations and effects. The telephone blinking red, and my bouncing head were both done in it. I then exported the results and made the final ad in Aseprite.
 
 The touch grass ad was pixelated and quantized to the DB32 pallet using [pixatool](https://kronbits.itch.io/pixatool), text added in Aseprite. I'm sure I could've achieved the same effect entirely within aseprite, but pixatool is my go-to for its ease of use. 

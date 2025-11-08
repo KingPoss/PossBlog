@@ -31,7 +31,40 @@ export const defaultContentPageLayout: PageLayout = {
         },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({    
+  sortFn: (a, b) => {    
+    // First, sort folders before files    
+    if (a.isFolder && !b.isFolder) return -1    
+    if (!a.isFolder && b.isFolder) return 1    
+        
+    // If both are folders, sort alphabetically    
+    if (a.isFolder && b.isFolder) {    
+      return a.displayName.localeCompare(b.displayName, undefined, {    
+        numeric: true,    
+        sensitivity: "base",    
+      })    
+    }    
+        
+    // If both are files, sort by creation date (newest first)  
+    const aCreated = a.data?.date  // Changed from frontmatter.created  
+    const bCreated = b.data?.date  // Changed from frontmatter.created  
+        
+    if (aCreated && bCreated) {    
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
+    }    
+        
+    // If only one has a creation date, prioritize it    
+    if (aCreated && !bCreated) return -1    
+    if (!aCreated && bCreated) return 1    
+        
+    // Fallback to alphabetical sorting    
+    return a.displayName.localeCompare(b.displayName, undefined, {    
+      numeric: true,    
+      sensitivity: "base",    
+    })    
+  },    
+})
+,
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -56,7 +89,40 @@ export const defaultListPageLayout: PageLayout = {
         },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({    
+  sortFn: (a, b) => {    
+    // First, sort folders before files    
+    if (a.isFolder && !b.isFolder) return -1    
+    if (!a.isFolder && b.isFolder) return 1    
+        
+    // If both are folders, sort alphabetically    
+    if (a.isFolder && b.isFolder) {    
+      return a.displayName.localeCompare(b.displayName, undefined, {    
+        numeric: true,    
+        sensitivity: "base",    
+      })    
+    }    
+        
+    // If both are files, sort by creation date (newest first)  
+    const aCreated = a.data?.date  // Changed from frontmatter.created  
+    const bCreated = b.data?.date  // Changed from frontmatter.created  
+        
+    if (aCreated && bCreated) {    
+      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
+    }    
+        
+    // If only one has a creation date, prioritize it    
+    if (aCreated && !bCreated) return -1    
+    if (!aCreated && bCreated) return 1    
+        
+    // Fallback to alphabetical sorting    
+    return a.displayName.localeCompare(b.displayName, undefined, {    
+      numeric: true,    
+      sensitivity: "base",    
+    })    
+  },    
+})
+,
   ],
   right: [],
 }

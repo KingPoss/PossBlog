@@ -1,5 +1,6 @@
 ---
 title: Pylon Intrigue, Lost in Self 7-27-25
+date: 07/27/2025
 draft: false
 tags:
   - journal

@@ -1,5 +1,6 @@
 ---
 title: First Journal 7-20-25
+date: 07/20/2025
 draft: false
 tags:
   - "#journal"

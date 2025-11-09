@@ -3,6 +3,7 @@ title: Three Month Recap 10-28-25
 draft: false
 tags:
   - journal
+date: 10/28/2025
 ---
 ## Guess who's back?
 Three months have passed since my last journal entry. I find it's hard to write (or really create anything) when life starts to pick up. I really need to setting aside some time during the week to write, gather my thoughts, and work on my projects. A lot has happened in these last three months, but I'm finally starting to settle down again. As of this last week, I've fixed a couple of dead links n' such on my site, and even made a few ads to go on the front page, here they are:

@@ -37,9 +37,11 @@ https://www.youtube.com/watch?v=BYJUMR7iOYg
 This one was a lot of fun to make, and I'm excited to make a series of masks. Of my face, but also more abstract ideas and expressions of self. This mask will become the new face of kingposs.com. My gasmask and goggles were more function than anything, it's what I dawned to go out during the pandemic. It became a great way to conceal my face for my site though, and kind of became a part of its identity. I've been feeling like doing something new, something different, and uniquely me. I really like the idea. Hiding my face, and showing a visage of myself instead. 
 
 Here's a render of the mask in blender. I 3d scanned my face, then sculpted the finer details:
+
 ![[blender_0GAyQW68lv.gif]]
 
 And here it is 3D printed in gold:
+
 ![[momof1.png]]
 
 I have more works, but don't really feel like sharing yet.

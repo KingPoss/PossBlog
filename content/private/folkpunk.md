@@ -25,9 +25,11 @@ something I lost inside your eyes
 something I lost inside your eyes
 
 
+
 [solo]
 
 
 I still think
 
 
+rr

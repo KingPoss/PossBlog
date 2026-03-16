@@ -10,6 +10,3 @@ This humming web that sings at 60 Hertz
 Overcome with admiration
 Of the atlases before me
 Standing still in silent service just for us
-
-
-
